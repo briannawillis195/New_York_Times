@@ -5,4 +5,4 @@ This project was created based off of a screen shot that was shared with me of a
 
 <b>Tech Used:</b> HTML5 and CSS3
 
-<b>Lessons Learned</b>: Margins and Padding make such a huge difference when used correctly. They we're able to make my website look a lot cleaner and not have content squished so close together.
+<b>Lessons Learned</b>: Margins and Padding make such a huge difference when used correctly. They were able to make my website look a lot cleaner and not have content squished so close together.
